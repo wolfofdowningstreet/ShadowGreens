@@ -1,7 +1,7 @@
 # ShadowPounds
 Shadow Currencies - tokens that shadow a real currency
 
-I am introducing to the world "Shadow Pounds" and its accompanying "Shadow Currencies": "Shadow Greens" (USD), "Shadow OZ" (AUD), "Shadow Yen", "Shadow CAD", "Shadow Francs" (CHF) and "Shadow EURO".
+I am introducing to the world "Shadow Pounds" and its accompanying "Shadow Currencies": "Shadow Greens" (USD), "Shadow OZ" (AUD), "Shadow Yen", "Shadow CAD", "Shadow Francs" (CHF), "Shadow Rupee" (INR) and "Shadow EURO".
 
 The way they work is simple: a user converts a MATIC token into one of these tokens using the MATIC exchange rate to the denoted fiat currency. This means if an englishman with GBP buys MATIC and then buys Shadow Pounds, he is ending up with an amount of Shadow Pounds that corresponds to his intial GBP savings. Of course, being an ERC-20 token, it will be expressed as a much larger or smaller number (i.e. instead of 1.00 gbp buying 1.32 MATIC buying 1.00 SGBP (Shadow Pounds), the Shadow Pounds will have the decimal point in a different place). Essentially though, it will "shadow" the pound, meaning that any increase in pounds traded will proportionally increase the shadow pounds. This "shadow" token is porportional to the original fiat currency.
 
