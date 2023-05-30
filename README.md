@@ -18,4 +18,8 @@ So a quick walkthrough of the trade-relevant functions in the contract and their
 
 Happy trading!
 
+Here are the addresses for the contracts:
+
+Shadow Greens (USD) - 0x64F7a82Bb13a773F641cd77c8B92A39E8a94D7eD
+
 PS: I am stuck in Rishi Sunak's garden shed like in Shawn of the Dead, so I turned to coding to help pass the time. https://www.youtube.com/watch?v=ihKYI2fpTA8
