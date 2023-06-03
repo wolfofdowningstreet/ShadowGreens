@@ -9,6 +9,8 @@ So how to make money with this? It's not strictly for making money, as it's a st
 
 You see, if ETH goes up against SGBP (which it will most of the time), to trade back to ETH will require a larger amount of SGBP. One way to obtain that SGBP is to enlarge the position (a function in the ERC-20 token contract) but another way would be to buy it from someone who has excess SGBP which they can't turn into ETH. Therefore there will be a ready market for these shadow currencies.
 
+The best thing about these shadow currencies are that they are neutral assets, meaning if you open a position in Shadow Pounds from ETH with funds sourced from GBP, you do not stand to gain or lose with respect to the starting currency (GBP) but you CAN gain or lose with respect to ETH. Whatever you lose with respect to ETH won't create losses with respect to GBP (except for the 1% fee). So you are betting on the weakness of ETH without risking any GBP. In the long term, it won't work as GBP is inflationary and ETH is deflationary and you will have to keep enlarging your position but you won't lose anything with respect to GBP - but you stand to gain in the short term if ETH dips. So you're essentially betting for short term gains with almost no risk (the risk is you'll need to keep enlarging your position and you still need to pay the 1% fee).
+
 So a quick walkthrough of the trade-relevant functions in the contract and their use in the Remix IDE program:
 
 1) To convert to a shadow currency, simply use the "openposition" function to open a position in the shadow currency. In Remix, denote the amount to buy in the "value" box of the "deploy and run transactions" tab of the program.
