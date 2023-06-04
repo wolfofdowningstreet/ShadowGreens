@@ -9,8 +9,6 @@ So how to make money with this? It's not strictly for making money, as it's a st
 
 You see, if ETH goes up against SGRN (which it will most of the time), to trade back to ETH will require a larger amount of SGRN. One way to obtain that SGRN is to enlarge the position (a function in the ERC-20 token contract) but another way would be to buy it from someone who has excess SGRN which they can't turn into ETH. Therefore there will be a ready market for this shadow currency.
 
-The best thing about this shadow currency is that it is a neutral asset, meaning if you open a position in Shadow Greens from ETH with funds sourced from USD, you do not stand to gain or lose with respect to the starting currency (USD) but you CAN gain or lose with respect to ETH. Whatever you lose with respect to ETH won't create losses with respect to USD (except for the 1% fee). So you are betting on the weakness of ETH without risking any USD. In the long term, it won't work as USD is inflationary and ETH is deflationary and you will have to keep enlarging your position but you won't lose anything with respect to USD - but you stand to gain in the short term if ETH dips. So you're essentially betting for short term gains with almost no risk (the risk is you'll need to keep enlarging your position and you still need to pay the 1% fee).
-
 So a quick walkthrough of the trade-relevant functions in the contract and their use in the Remix IDE program:
 
 1) To convert to the shadow currency, simply use the "openposition" function to open a position in the shadow currency. In Remix, denote the amount to buy in the "value" box of the "deploy and run transactions" tab of the program.
