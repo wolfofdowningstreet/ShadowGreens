@@ -1,4 +1,4 @@
-# ShadowPounds
+# ShadowGreens
 Shadow Greens - a token that shadows the US Dollar.
 
 I am introducing to the world "Shadow Greens".
